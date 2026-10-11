@@ -189,8 +189,8 @@ CatalogGeneration = 0
 LastCatalogRefreshAt = 0
 currentScriptCategory = "Games"
 ManualRefreshSelection = "All"
-GAMES_CATALOG_URL = "https://raw.githubusercontent.com/KingBacconnnn/VeloxScripts/refs/heads/main/catalog.json"
-UTILITIES_CATALOG_URL = "https://raw.githubusercontent.com/KingBacconnnn/VeloxScripts/refs/heads/main/utilitycatalog.json"
+GAMES_CATALOG_URL = "https://raw.githubusercontent.com/Zyqvexon/xrjrxjzkea/refs/heads/main/primary.json"
+UTILITIES_CATALOG_URL = "https://raw.githubusercontent.com/Zyqvexon/xrjrxjzkea/refs/heads/main/secondary.json"
 CategoryCatalogStates = {
 	Games = { Entries = {}, ByKey = {}, Fingerprint = nil, LastRefreshAt = 0, Loaded = false },
 	Utilities = { Entries = {}, ByKey = {}, Fingerprint = nil, LastRefreshAt = 0, Loaded = false }
