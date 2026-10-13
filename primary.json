@@ -13,6 +13,59 @@
       "Farming",
       "Automation"
     ]
+    },
+    {
+    "Name": "Flee the Facility",
+    "Description": "Unlock exploit-style utilities, gameplay enhancements, and convenient controls designed to improve your Flee the Facility experience.",
+    "RawUrl": "https://raw.githubusercontent.com/Zyqvexon/q7vx2n9k4m8z/refs/heads/main/002.lua",
+    "ImageAssetId": "rbxassetid://127552820963630",
+    "TagType": "HOT",
+    "LastUpdated": 1791849600,
+    "PlaceId": 893973440,
+    "Category": "Horror",
+    "Tags": [
+      "Horror",
+      "Survival",
+      "Escape",
+      "Multiplayer",
+      "Teamwork"
+    ]
+  },
+  {
+    "Name": "Blox Fruits",
+    "Description": "Enhance your Blox Fruits gameplay with exploit-style utilities, automated farming options, combat features, and convenient controls for faster progression.",
+    "RawUrl": "https://raw.githubusercontent.com/Zyqvexon/q7vx2n9k4m8z/refs/heads/main/001.lua",
+    "ImageAssetId": "rbxassetid://137723487809202",
+    "TagType": "HOT",
+    "LastUpdated": 1791849600,
+    "PlaceId": 2753915549,
+    "Category": "Adventure",
+    "Tags": [
+      "Anime",
+      "RPG",
+      "Fighting",
+      "Grinding",
+      "Exploration",
+      "Upgrades"
+    ]
+  },
+  {
+    "Name": "Sniper Arena",
+    "Description": "Explore tactical utilities, aiming features, and combat enhancements designed for sniper-focused gameplay, with a convenient interface for quick access.",
+    "RawUrl": "https://raw.githubusercontent.com/Zyqvexon/q7vx2n9k4m8z/refs/heads/main/003.lua",
+    "ImageAssetId": "rbxassetid://98936598003556",
+    "TagType": "HOT",
+    "LastUpdated": 1791849600,
+    "PlaceId": 122446657157717,
+    "Category": "Shooter",
+    "Tags": [
+      "Sniper",
+      "Shooting",
+      "Combat",
+      "Aim",
+      "Accuracy",
+      "PvP"
+    ]
   },
   {
   "Name": "🎃 Muscle Legends",
